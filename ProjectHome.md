@@ -1,0 +1,3 @@
+swDMR is a free software using a sliding-window approach to identify differentially methylated regions (DMR) from whole-genome bisulfite sequencing. It is suitable for single base resolution methylation dataset through methylC-seq, BS-seq or RRBS technology. To run this software, perl 5.8.8 and R 2.12.0 are required.
+
+Detail information can get at http://seqanswers.com/forums/showthread.php?t=23196
